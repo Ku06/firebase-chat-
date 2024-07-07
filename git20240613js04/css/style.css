@@ -1,0 +1,47 @@
+.wrapper {
+  max-width: 480px;
+  margin-inline: auto;
+  padding: 40px;
+}
+.heading {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 24px;
+}
+.form-field {
+  margin-bottom: 16px;
+}
+.button-field {
+  margin-top: 40px;
+}
+.text-center {
+  text-align: center;
+}
+
+.color1{
+  color: #222222; 
+  font-size: 30px;
+  padding-bottom:30px;
+}
+
+.color2{
+  color: #222222;
+  padding-bottom:10px;
+}
+
+.color3{
+  color: #222222;
+  padding-bottom:10px;
+}
+
+.output1{
+  background-color: blue;
+}
+
+.massage1{
+  padding:10px;
+  border-radius:10px;
+  margin: 10px;
+  background-color:greenyellow;
+  width: 200px;
+}
